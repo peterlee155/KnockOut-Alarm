@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to implement a dedicated Test & Debug menu for simulating real alarm triggers, offering both instant siren/boxing triggers and short delay (5s/10s) triggers with full foreground service and fight arena transition.",
+  "updatedAt":  "2026-10-09T18:49:30.557175501Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

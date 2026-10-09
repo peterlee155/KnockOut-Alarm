@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">KnockOut Alarm</string>
+    <string name="app_tagline">Anti-Snooze Gamified Boxing Alarm</string>
+    
+    <!-- Home Screen -->
+    <string name="home_next_alarm">Next Alarm</string>
+    <string name="home_no_alarm_set">No Alarm Set</string>
+    <string name="home_streak_title">Current Streak</string>
+    <string name="home_stats_punches">Total Punches</string>
+    <string name="home_stats_best_streak">Best Streak</string>
+    <string name="home_stats_avg_cadence">Avg Cadence</string>
+    <string name="home_btn_set_alarm">Set Alarm</string>
+    <string name="home_btn_test_arena">Test Fight Arena</string>
+    <string name="home_recent_sessions">Recent Bouts</string>
+    <string name="home_subscription_pro">PRO ACTIVE</string>
+    <string name="home_subscription_free">FREE TIER</string>
+    
+    <!-- Alarm Editor -->
+    <string name="editor_title_new">New Alarm</string>
+    <string name="editor_title_edit">Edit Alarm</string>
+    <string name="editor_punch_target">Punch Target</string>
+    <string name="editor_difficulty">Difficulty</string>
+    <string name="editor_sound">Alarm Sound</string>
+    <string name="editor_vibration">Vibration</string>
+    <string name="editor_announcer">Fight Announcer</string>
+    <string name="editor_repeat_days">Repeat Days</string>
+    <string name="editor_save">Save Alarm</string>
+    <string name="editor_delete">Delete Alarm</string>
+
+    <!-- Fight Arena -->
+    <string name="arena_round_one">ROUND 1</string>
+    <string name="arena_target_prompt">PUNCHES TO ESCAPE</string>
+    <string name="arena_ready_prompt">GET IN POSITION</string>
+    <string name="arena_fight_go">FIGHT!</string>
+    <string name="arena_emergency_stop">HOLD 15S TO ABORT</string>
+    <string name="arena_safety_warning">PUNCH TOWARD CAMERA. DO NOT HIT DEVICE.</string>
+    <string name="arena_left_punch">LEFT</string>
+    <string name="arena_right_punch">RIGHT</string>
+    <string name="arena_pose_ok">BODY READY</string>
+    <string name="arena_pose_step_back">STEP BACK</string>
+    <string name="arena_pose_upper_body">SHOW UPPER BODY</string>
+    <string name="arena_pose_raise_hands">RAISE HANDS TO GUARD</string>
+    <string name="arena_pose_lost">CAMERA LOST YOU</string>
+    <string name="arena_pose_shaking">KEEP PHONE STEADY</string>
+    
+    <!-- Victory Screen -->
+    <string name="victory_title">KNOCKOUT!</string>
+    <string name="victory_subtitle">YOU BEAT THE SNOOZE</string>
+    <string name="victory_time_elapsed">Time Elapsed</string>
+    <string name="victory_total_punches">Punches Landed</string>
+    <string name="victory_avg_cadence">Average Cadence</string>
+    <string name="victory_streak_maintained">Day Streak Maintained</string>
+    <string name="victory_btn_done">Finish</string>
+    <string name="victory_btn_stats">View Stats</string>
+
+    <!-- Notifications and Permissions -->
+    <string name="notif_alarm_ringing">KnockOut Alarm is Ringing!</string>
+    <string name="notif_wake_up_punch">Wake up and punch to silence the alarm.</string>
+    <string name="permission_camera_title">Camera Access Required</string>
+    <string name="permission_camera_desc">KnockOut Alarm uses the front camera for real-time on-device body pose estimation to track your punches. No video or images are ever stored or uploaded.</string>
+    <string name="permission_grant">Grant Camera</string>
+</resources>
